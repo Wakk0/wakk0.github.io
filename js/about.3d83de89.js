@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwakk0_github_io"]=self["webpackChunkwakk0_github_io"]||[]).push([[443],{7881:function(n,t,e){e.r(t),e.d(t,{default:function(){return s}});var u=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v("I'm not a programmer!")]),n._v(" At least not a good one... ")])}],o={name:"HomeView"},a=o,i=e(1001),l=(0,i.Z)(a,u,r,!1,null,null,null),s=l.exports}}]);
+//# sourceMappingURL=about.3d83de89.js.map

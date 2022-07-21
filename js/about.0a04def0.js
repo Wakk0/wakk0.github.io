@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkwakk0_github_io"]=self["webpackChunkwakk0_github_io"]||[]).push([[443],{1213:function(n,t,e){e.r(t),e.d(t,{default:function(){return x}});var u=function(){var n=this,t=n._self._c;return t("ContentBox")},l=[],o=e(433),r=function(){var n=this,t=n._self._c;return t(o.Z)},s=[],i={name:"ContentBox"},a=i,c=e(1001),f=(0,c.Z)(a,r,s,!1,null,null,null),k=f.exports,p={name:"HomeApp",components:{ContentBox:k}},_=p,h=(0,c.Z)(_,u,l,!1,null,null,null),x=h.exports}}]);
-//# sourceMappingURL=about.0a04def0.js.map
